@@ -1,5 +1,8 @@
 # Rafa's site
 
+https://github.com/rafaelconde/rafaelconde/blob/40b99a12fd73d0aface563f76101ec7ad9f070f6/src/site/_includes/js/scripts.js#L116
+Line 116 shows code on how to change browser tab coor on scrolling
+
 This is the repo for my personal website 👋
 
 ## Develop locally
